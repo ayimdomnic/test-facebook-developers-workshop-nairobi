@@ -10,5 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "phpunit/phpunit": "^5.5",
+        "illuminate/database": "^5.3",
+        "symfony/console": "^3.1"
+    }
 }
