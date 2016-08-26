@@ -1,0 +1,14 @@
+{
+    "name": "ayimdomnic/test-package",
+    "description": "This is jus another test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ayimdomnic",
+            "email": "Ayimdomnic@statuscreative.co.ke"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
